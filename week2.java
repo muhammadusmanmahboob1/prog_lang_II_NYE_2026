@@ -7,7 +7,6 @@ public class week2 {
         Scanner scanner = new Scanner(System.in);
 
         // First Task
-
         System.out.print("Enter the current temperature: ");
         double temperature = scanner.nextDouble();
 
