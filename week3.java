@@ -55,6 +55,6 @@ public class week3 {
 
         double[] Grades = {4.5, 5.0, 3.0, 4.0};
         Student student = new Student("Muhammad Usman Mahboob", Grades);
-        System.out.printf("Average Grade: %f\n", student.calculateAverage());
+        System.out.println("Average Grade: " + student.calculateAverage());
     }
 }
